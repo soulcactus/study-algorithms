@@ -1,6 +1,6 @@
 # Study Algorithms
 
-스터디 : 도서 [Learning JavaScript Data Structures and Algorithms 한국어판 - 자바스크립트 자료 구조와 알고리즘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=69412435)로 진행하는 개인 스터디 결과물 정리를 위한 저장소입니다. 목차마다 관련된 알고리즘 문제를 함께 풀이합니다.
+스터디 : 도서 [Learning JavaScript Data Structures and Algorithms](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=69412435)으로 진행하는 개인 스터디 결과물 정리를 위한 저장소입니다. 목차마다 관련된 알고리즘 문제를 함께 풀이합니다.
 
 ## 📝 Contents
 - O 표기
